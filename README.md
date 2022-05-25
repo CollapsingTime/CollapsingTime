@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vlad
-- 👀 I’m interested in frontend development
+- 👀 I’m interested in fullstack development
 - 🌱 I’m currently learning React, NodeJS
 - 📫 How to reach me rumyantsev001@mail.ru
 
