@@ -1,2 +1,2 @@
 
-![LeetCode stats](https://leetcode-badge-sage.vercel.app/badge/collapsingtime?theme=dark&bgColor=282828)
+![LeetCode stats](https://leetcode-badge-sage.vercel.app/badge/CollapsingTime?theme=dark&bgColor=282828)
