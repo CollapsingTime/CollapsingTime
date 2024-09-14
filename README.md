@@ -1,3 +1,2 @@
 
-![](https://leetcard.collapsing.time/leetcode?site=cn)
-
+![Enter some description](https://leetcode-badge-sage.vercel.app/badge/{CollapsingTime}?theme={dark})
