@@ -1,3 +1,3 @@
 
-![Leetcode Stats](https://leetcard.collapsing.time/CollapsingTime)
+![](https://leetcard.collapsing.time/leetcode?site=cn)
 
